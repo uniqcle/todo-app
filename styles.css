@@ -13,7 +13,7 @@ body{
     align-items: center; 
     justify-content: center;
     flex-direction: column; 
-
+    color: #999; 
 }
 
 h1{
@@ -65,4 +65,5 @@ input::placeholder{
 small{
     color: #b5b5b5; 
     margin-top: 1rem; 
+    text-align: center; 
 }
